@@ -3,7 +3,7 @@ import json
 import time
 import os
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1517128820581208204/eagdtR4zNVSMX7hi1wOdlAo3WuBVAaBvFE9Izzms2qWtcCO3bQfzE9GQ1LDbAcvemBMX" 
+WEBHOOK_URL = "https://discord.com/api/webhooks/your_webhook_url_here" 
 LOG_FILE = "game_output.log"
 
 def send_to_discord(message_content, severity):
