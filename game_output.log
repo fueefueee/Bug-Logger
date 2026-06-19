@@ -1,0 +1,7 @@
+[INFO] --- GAME LOG INITIALIZED ---
+[2026-06-19 17:41:10] [WARNING] High memory usage detected (85% capacity).
+[2026-06-19 17:41:15] [CRASH] NullReferenceException: Object reference not set to an instance of an object.
+[2026-06-19 17:41:18] [INFO] Textures loaded successfully.
+[2026-06-19 17:41:23] [INFO] Enemy AI pathfinding initialized.
+[2026-06-19 17:41:27] [WARNING] Frame drop detected: dropped 14 frames.
+[2026-06-19 17:41:31] [INFO] Textures loaded successfully.
