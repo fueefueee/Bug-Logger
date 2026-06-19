@@ -29,7 +29,7 @@ def send_to_discord(message_content, severity):
     requests.post(WEBHOOK_URL, data=json.dumps(payload), headers=headers)
 
 def monitor_log():
-    print(f"🔍 Monitoring {LOG_FILE} for errors and crashes...")
+    print(f"Monitoring {LOG_FILE} for errors and crashes...")
     
     while not os.path.exists(LOG_FILE):
         time.sleep(1)
